@@ -5,9 +5,8 @@
 - 🛰️ I’m currently working on my first web project, which is an e-commerce for a friend of mine
 - 🌙 I’m currently learning Python, Cloud Computing and Containerization. Willing to work as a DevOps soon!
 - 🔭 Fun fact: I have a lot of interests, so I need to constantly filtrate what needs to be my focus point
--->
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annymadeit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annymadeit&layout=compact&langs_count=7&theme=dracula"/>
