@@ -1,5 +1,5 @@
 
-<p>Hi there! My name is Rayany Wasem, but please call me Anny 💫
+<p>Hi there! I'm Anny 💫
 <p>I'm a Computer Engineering student who works in a full-time job as an IT Support Technician
 
 - 🛰️ I’m currently working on my first web project, which is an e-commerce for a friend of mine
